@@ -1,4 +1,6 @@
-### 📖 [Triton Tutorial](https://github.com/OpenMLIR/triton-tutorial) in Chinese
+# Learning GPU Kernels as a Domain-Specific Language
+
+## 📖 [Triton Tutorial](https://github.com/OpenMLIR/triton-tutorial) in Chinese
 
 [从零开始教你Triton算子（一）—— 向量加](https://zhuanlan.zhihu.com/p/1945518475989713455)
 
