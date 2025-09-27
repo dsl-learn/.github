@@ -1,4 +1,8 @@
-# Learning GPU Kernels as a Domain-Specific Language
+## Learning GPU Kernels as a Domain-Specific Language
+
+## 📝 Python DSL summary in Chinese
+
+[新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
 
 ## 📖 [Triton Tutorial](https://github.com/OpenMLIR/triton-tutorial) in Chinese
 
@@ -7,10 +11,6 @@
 [从零开始教你Triton算子（二）—— 练习题解](https://zhuanlan.zhihu.com/p/1946822570201580464)
 
 [从零开始教你Triton算子（三）—— 矩阵转置](https://zhuanlan.zhihu.com/p/1947731427543189117)
-
-## 📝 Python DSL summary in Chinese
-
-[新兴 Python 算子开发：Triton、CuTeDSL、MOJO 🔥等概览](https://zhuanlan.zhihu.com/p/1919816304271028292)
 
 ## CuTeDSL MOJO 🔥 in Chinese
 
