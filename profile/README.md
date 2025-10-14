@@ -20,8 +20,6 @@
 
 ## MOJO 🔥 in Chinese
 
-[CuTeDSL(CUTLASS Python)的初步实践](https://zhuanlan.zhihu.com/p/1918927108006188667)
-
 [LeetGPU的MOJO 🔥 实践](https://zhuanlan.zhihu.com/p/1908980999993402643)
 
 ## 🧠 [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
