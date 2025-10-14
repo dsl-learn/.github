@@ -12,7 +12,13 @@
 
 [从零开始教你Triton算子（三）—— 矩阵转置](https://zhuanlan.zhihu.com/p/1947731427543189117)
 
-## CuTeDSL MOJO 🔥 in Chinese
+## CuTeDSL in Chinese
+
+[CuTeDSL(CUTLASS Python)的初步实践](https://zhuanlan.zhihu.com/p/1918927108006188667)
+
+[LeetGPU的CuTeDSL实践](https://zhuanlan.zhihu.com/p/1958305040352675168)
+
+## MOJO 🔥 in Chinese
 
 [CuTeDSL(CUTLASS Python)的初步实践](https://zhuanlan.zhihu.com/p/1918927108006188667)
 
