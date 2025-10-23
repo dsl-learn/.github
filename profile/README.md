@@ -12,6 +12,10 @@
 
 [从零开始教你Triton算子（三）—— 矩阵转置](https://zhuanlan.zhihu.com/p/1947731427543189117)
 
+## 📖 [Triton Tutorial](https://github.com/OpenMLIR/triton-tutorial) in English
+
+[Hands-on Triton Kernels (Part 1): Vector Addition](https://github.com/dsl-learn/triton-tutorial/tree/main/ex1-vector_add-en) - [tingxi-li](https://github.com/tingxi-li)
+
 ## CuTeDSL in Chinese
 
 [CuTeDSL(CUTLASS Python)的初步实践](https://zhuanlan.zhihu.com/p/1918927108006188667)
