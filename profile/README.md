@@ -29,3 +29,9 @@
 ## 🧠 [LeetGPU](https://github.com/OpenMLIR/LeetGPU) Chinese documentation
 
 [LeetGPU入门教程 (CUDA guide最佳实践)](https://zhuanlan.zhihu.com/p/1899956367734867434)
+
+## Organizations I Established
+I created and maintain the following organizations:
+- [ToyAIX](https://github.com/toyaix)
+- [OpenMLIR](https://github.com/openmlir)  
+- [DSL-Learn](https://github.com/dsl-learn)  
